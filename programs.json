@@ -1,0 +1,29 @@
+{
+    "programs": [
+      {
+        "name": "Discord",
+        "path": "C:\\Users\\<username>\\AppData\\Local\\Discord\\Update.exe",
+        "argument": "--processStart Discord.exe"
+      },
+      {
+        "name": "Google Chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "name": "Visual Studio Code",
+        "path": "C:\\Users\\<username>\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "name": "Notepad++",
+        "path": "C:\\Program Files\\Notepad++\\notepad++.exe"
+      },
+      {
+        "name": "Spotify",
+        "path": "C:\\Users\\<username>\\AppData\\Roaming\\Spotify\\Spotify.exe"
+      },
+      {
+        "name": "Microsoft Word",
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE"
+      }
+    ]
+  }
